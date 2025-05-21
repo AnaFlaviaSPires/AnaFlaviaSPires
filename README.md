@@ -11,7 +11,7 @@
 - **Experimentos com IA** – explorando interações com assistentes virtuais e usabilidade acessível
 
 📫 Como me encontrar:
-- 📧 E-mail: anaflaviaspires95@gmail.com  
+- 📧 E-mail: anafspires95@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/ana-flávia-simões-pires-872478a7]
 
 ---
