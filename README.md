@@ -1,10 +1,10 @@
 ## 👋 Oi, eu sou a Ana Flávia!
 
-🎓 Graduada em Gestão Empresarial pela FATEC  
-💰 Especialista em Finanças Corporativas 
+🎓 Graduada em Gestão Empresarial pela FATEC e Especialista em Finanças Corporativas 
 💻 Graduanda em Gestão da Tecnologia da Informação na FATEC  
 📚 Atualmente me aventurando por desenvolvimento front-end e back-end  
 🌏 Objetivo: aprender idiomas e dominar a tecnologias
+
 🛠️ Projetos em andamento:  
 - **Sistema de Gestão para uma ONG** – plataforma interna completa com autenticação, dashboards e automações  
 - **Sistema de controle fiscal para empresa** – upload de NFs, organização por pastas, rastreabilidade e histórico  
